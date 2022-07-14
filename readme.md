@@ -1,1 +1,1 @@
-## typeing speed cheker
+## typing speed cheker
